@@ -1,0 +1,16 @@
+pada dim_customers
+mengambil customerNumber ditabel customers untuk mengeahui id customernya
+mengambil customerName untuk mengetahui Nama Customernya
+mengambil addressLine1 untuk mengetahui alamat
+mengambil city untuk mehgetahui kota tinggal customernya
+mengambil country untyk mengetahui negara asal
+
+pada dim_emplooyess
+mengambil id (cemployee number) dari tabel employee
+pmengambil firts nama dan lastname dari tabel employees lalu dihubungkan dg fungsi concat
+
+pada dim_office
+mengambil officeCode dari tabel offfice untuk mengetahui kode officenya
+mengambil city untuk mehgetahui kota officenya
+mengambil addressLine1 untuk mengetahui alaamat office
+ambil country untyk mengetahui negara office itu
